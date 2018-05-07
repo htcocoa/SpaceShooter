@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jipeg\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_New Unity Project.2041921345.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jipeg\OneDrive\바탕 화면\New Unity Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Complete-Game" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Done_BGScroller.cs" t="Include" />
+            <e p="Done_DestroyByBoundary.cs" t="Include" />
+            <e p="Done_DestroyByContact.cs" t="Include" />
+            <e p="Done_DestroyByTime.cs" t="Include" />
+            <e p="Done_EvasiveManeuver.cs" t="Include" />
+            <e p="Done_GameController.cs" t="Include" />
+            <e p="Done_Mover.cs" t="Include" />
+            <e p="Done_PlayerController.cs" t="Include" />
+            <e p="Done_RandomRotator.cs" t="Include" />
+            <e p="Done_WeaponController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="aaaaaaaaaa.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Destroy_By_Boundary.cs" t="Include" />
+          <e p="DestroyByContact.cs" t="Include" />
+          <e p="DestroyByTime.cs" t="Include" />
+          <e p="Game_Controller.cs" t="Include" />
+          <e p="Gamecontroller.cs" t="Include" />
+          <e p="Mover.cs" t="Include" />
+          <e p="Playercontroller.cs" t="Include" />
+          <e p="RandomRotator.cs" t="Include" />
+          <e p="seegong.cs" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="New Unity Project.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
