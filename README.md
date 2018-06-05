@@ -1,7 +1,5 @@
 # SpaceShooter
 
-이 프로젝트는 유니티를 학습하기 위해 만들어 졌다.
-
 이 프로젝트는 우주선을 조종하여 소행성을 파괴하는 게임이다.  
 ![SpaceShooter1](http://drive.google.com/uc?export=view&id=1eDr5MoxrhcLygod5Jj1C2PT9vU4VUDyy)  
 방향키를 이용하여 우주선을 상하좌우로 움직일 수 있고 왼쪽 ctrl키 또는 마우스 클릭으로 광선을 발사할 수 있다.
